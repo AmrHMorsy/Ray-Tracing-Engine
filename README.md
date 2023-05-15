@@ -8,14 +8,25 @@
 
 ## Build
 
-To compile the program, 
+1. Create a build directory 
 ```
-  mpicc Par.c -o Par
+mkdir build
 ```
-  
-To run the program,
+2. Go to build directory 
 ```
-  mpirun -np <NumberOfProcesses> Par <InputSize>
+cd build
+```
+5. Generate makefiles using cmake
+```
+cmake ../
+```
+6. Run makefile
+```
+make
+```
+7. Run the executable
+```
+./raytracer <Model_Filepath>.json
 ```
   
 ## Results 
