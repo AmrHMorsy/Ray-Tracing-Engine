@@ -2,7 +2,11 @@
 
 ## Description 
 
-This project, developed in C++, is an advanced Raytracer application that features motion blur, global illumination, and depth of field. The project is designed to encapsulate and illustrate the intricate processes of rendering photorealistic images from 3D models and scenes, effectively demonstrating the power and capabilities of computer graphics programming.
+This project, developed in C++, is an advanced Raytracer application that utilizes OpenMP for parallel computing to enhance performance. The project features motion blur, global illumination, and depth of field, designed to encapsulate and illustrate the intricate processes of rendering photorealistic images from 3D models and scenes, effectively demonstrating the power and capabilities of computer graphics programming.
+
+## OpenMP Parallelization
+
+This project incorporates OpenMP (Open Multi-Processing), a parallel programming model for shared-memory multiprocessor architectures, to achieve faster performance. By distributing computations across multiple CPU cores, the application can render complex scenes more quickly and efficiently.
 
 ## Important Note on Academic Integrity
 
@@ -80,7 +84,7 @@ This project is licensed under the terms of the MIT license. For more informatio
 
 This project has been a product of continuous learning and inspiration, made possible by a multitude of invaluable resources.
 
-A significant acknowledgement goes to the Ray Tracing in One Weekend series. This resource has provided the fundamental knowledge and understanding needed to bring this project to life. Its comprehensive and accessible approach to explaining the concept of ray tracing has been instrumental in the development of this application.
+A significant acknowledgement goes to the Ray Tracing in One Weekend series https://raytracing.github.io. This resource has provided the fundamental knowledge and understanding needed to bring this project to life. Its comprehensive and accessible approach to explaining the concept of ray tracing has been instrumental in the development of this application.
 
 I would also like to express my gratitude to the course COMP 371 - Computer Graphics at Concordia University. The theoretical framework and practical exercises provided throughout the course have immensely contributed to my understanding and skills in computer graphics, which have been vital in developing this project. The guidance from the faculty and the comprehensive curriculum helped transform a complex subject into a manageable and fascinating one.
 
@@ -98,4 +102,3 @@ For any questions or concerns, please open an issue, and I'll get back to you as
 Amr Morsy
 
 Enjoy the project, and happy coding!
-
