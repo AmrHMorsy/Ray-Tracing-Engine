@@ -26,8 +26,11 @@ By emulating how light interplays with objects within a scene, the global illumi
 
 This attribute allows for the simulation of the lens focus effect seen in real-world cameras. By adjusting the depth of field, users can emphasize specific subjects in the scene while artistically blurring other elements, creating a strikingly realistic and depth-perceptive visualization.
 
+### Soft Shadows 
 
 
+
+### Phong Local Illumination
 
 
 
