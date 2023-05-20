@@ -28,11 +28,12 @@ This attribute allows for the simulation of the lens focus effect seen in real-w
 
 ### Soft Shadows 
 
+The Soft Shadows feature simulates the effect of shadows when light is obstructed by objects in the scene. The 'soft' refers to the non-uniform, irregular shape of the shadows, which contribute to the realistic rendering of scenes by simulating the scattering and diffraction of light.
 
 
 ### Phong Local Illumination
 
-
+The Phong Local Illumination model calculates the color of an object based on its diffuse, specular, and ambient color, as well as the light present in the scene. This feature contributes to more accurate and visually pleasing renderings by considering the local properties of the objects and the lighting conditions.
 
 
 
