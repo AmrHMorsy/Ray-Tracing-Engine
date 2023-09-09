@@ -4,15 +4,13 @@
 
 This project, developed in C++, is an advanced Raytracer application that utilizes OpenMP for parallel computing to enhance performance. The project features motion blur, global illumination, and depth of field, designed to encapsulate and illustrate the intricate processes of rendering photorealistic images from 3D models and scenes, effectively demonstrating the power and capabilities of computer graphics programming.
 
-## OpenMP Parallelization
-
-This project incorporates OpenMP (Open Multi-Processing), a parallel programming model for shared-memory multiprocessor architectures, to achieve faster performance. By distributing computations across multiple CPU cores, the application can render complex scenes more quickly and efficiently.
-
-## Important Note on Academic Integrity
-
-While this repository is open to the public for learning and inspiration, it is expected that anyone viewing or using this code will respect the rules of academic integrity. This code should not be copied for use in academic or professional projects without proper understanding and attribution. Please use this repository as a reference and inspiration, not a source for plagiarism.
+![cornell_box_](https://github.com/AmrHMorsy/Raytracer-/assets/56271967/0ff224f0-9637-4f56-9a25-273a2a581e37)
 
 ## Features
+
+### OpenMP Parallelization
+
+This project incorporates OpenMP (Open Multi-Processing), a parallel programming model for shared-memory multiprocessor architectures, to achieve faster performance. By distributing computations across multiple CPU cores, the application can render complex scenes more quickly and efficiently.
 
 ### Motion Blur
 
@@ -72,7 +70,6 @@ make
 
 ![jumping_ball](https://github.com/AmrHMorsy/Raytracer-/assets/56271967/548bd100-d515-401c-880d-fe52c0427db0)
 ![TripleB](https://github.com/AmrHMorsy/Raytracer-/assets/56271967/7a8be9a4-eb5d-49a2-8570-50b5362e4ebb)
-![cornell_box_](https://github.com/AmrHMorsy/Raytracer-/assets/56271967/0ff224f0-9637-4f56-9a25-273a2a581e37)
 
 
 
@@ -92,17 +89,4 @@ A significant acknowledgement goes to the Ray Tracing in One Weekend series http
 
 I would also like to express my gratitude to the course COMP 371 - Computer Graphics at Concordia University. The theoretical framework and practical exercises provided throughout the course have immensely contributed to my understanding and skills in computer graphics, which have been vital in developing this project. The guidance from the faculty and the comprehensive curriculum helped transform a complex subject into a manageable and fascinating one.
 
-Last but not least, I am indebted to the open-source community for consistently providing resources, inspiration, and a platform to learn, create, and share.
-
-Your contributions to my journey in computer graphics are immensely appreciated.
-
-
-## Support
-
-For any questions or concerns, please open an issue, and I'll get back to you as soon as possible.
-
-## Author
-
-Amr Morsy
-
-Enjoy the project, and happy coding!
+Last but not least, I am indebted to the open-source community for consistently providing resources, inspiration, and a platform to learn, create, and share. Your contributions to my journey in computer graphics are immensely appreciated.
