@@ -1,8 +1,6 @@
 # Raytracer
 
-## Description 
-
-This project, developed in C++, is an advanced Raytracer application that utilizes OpenMP for parallel computing to enhance performance. The project features motion blur, global illumination, and depth of field, designed to encapsulate and illustrate the intricate processes of rendering photorealistic images from 3D models and scenes, effectively demonstrating the power and capabilities of computer graphics programming.
+This is an advanced Raytracer application, developed in C++, that utilizes OpenMP for parallel computing to enhance performance. The project features motion blur, global illumination, and depth of field, designed to encapsulate and illustrate the intricate processes of rendering photorealistic images from 3D models and scenes, effectively demonstrating the power and capabilities of computer graphics programming.
 
 ![cornell_box_](https://github.com/AmrHMorsy/Raytracer-/assets/56271967/0ff224f0-9637-4f56-9a25-273a2a581e37)
 
