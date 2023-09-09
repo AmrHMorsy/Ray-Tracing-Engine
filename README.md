@@ -31,7 +31,7 @@ The Soft Shadows feature simulates the effect of shadows when light is obstructe
 
 The Phong Local Illumination model calculates the color of an object based on its diffuse, specular, and ambient color, as well as the light present in the scene. This feature contributes to more accurate and visually pleasing renderings by considering the local properties of the objects and the lighting conditions.
 
-
+![jumping_ball](https://github.com/AmrHMorsy/Raytracer-/assets/56271967/548bd100-d515-401c-880d-fe52c0427db0)
 
 ## Installation
 
@@ -64,12 +64,7 @@ make
 ./raytracer <Model_Filepath>.json
 ```
   
-## Results 
-
-![jumping_ball](https://github.com/AmrHMorsy/Raytracer-/assets/56271967/548bd100-d515-401c-880d-fe52c0427db0)
 ![TripleB](https://github.com/AmrHMorsy/Raytracer-/assets/56271967/7a8be9a4-eb5d-49a2-8570-50b5362e4ebb)
-
-
 
 ## Contribution
 
