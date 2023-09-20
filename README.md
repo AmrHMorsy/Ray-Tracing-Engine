@@ -66,6 +66,24 @@ make
   
 ![TripleB](https://github.com/AmrHMorsy/Raytracer-/assets/56271967/7a8be9a4-eb5d-49a2-8570-50b5362e4ebb)
 
+## Future Work
+
+- **Glossy Reflection:** Introduce a more physically accurate reflection model that can simulate the subtle blurry reflections seen on surfaces like brushed metal and wet floors. This will enhance realism by accounting for microsurface details.
+  
+- **BVH (Bounding Volume Hierarchy):** Improve the ray tracing performance by implementing a BVH acceleration structure. This will allow for faster and more efficient intersection tests by grouping objects and discarding non-relevant intersections early in the tracing process.
+  
+- **Procedural Texturing:** Allow for more dynamic and versatile texturing options by implementing procedural texture generation. This can be used to create patterns like wood grain, marble, and noise-based textures without relying on image-based sources.
+
+- **Transparency and Caustics:** Enhance the realism by supporting transparency and simulating the focused light patterns (caustics) produced when light passes through transparent objects. This will make the depiction of glass, water, and other transparent materials more realistic.
+
+- **Ambient Occlusion:** Add ambient occlusion to simulate the soft global illumination shadows that occur in crevices and corners where light is occluded. This provides a greater depth and realism to scenes by accounting for subtle shadowing effects.
+
+- **Switch to Eigen:** Transition to the Eigen library for all matrix and vector computations. This should offer a more efficient and robust system for handling the linear algebra operations necessary for ray tracing.
+
+- **Add more scenes:** Expand the portfolio of test scenes to showcase the capabilities of the ray tracer. This could include complex indoor environments, outdoor landscapes, and scenes with a variety of materials and lighting setups.
+
+- **Fix Pixel Sampling:** for Antialiasing and shadow sampling for area lights: Refine the sampling techniques to reduce jagged edges and achieve smoother shadows. Implementing a more advanced antialiasing method and increasing shadow sampling for area lights will ensure a higher-quality render.
+
 ## Contribution
 
 This project is open to contributions. If you have suggestions or improvements, feel free to fork the project, make your changes, and open a pull request.
