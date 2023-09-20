@@ -88,10 +88,6 @@ make
 
 This project is open to contributions. If you have suggestions or improvements, feel free to fork the project, make your changes, and open a pull request.
 
-## License
-
-This project is licensed under the terms of the MIT license. For more information, see the LICENSE file.
-
 ## Acknowledgments
 
 This project has been a product of continuous learning and inspiration, made possible by a multitude of invaluable resources.
@@ -99,5 +95,3 @@ This project has been a product of continuous learning and inspiration, made pos
 A significant acknowledgement goes to the Ray Tracing in One Weekend series https://raytracing.github.io. This resource has provided the fundamental knowledge and understanding needed to bring this project to life. Its comprehensive and accessible approach to explaining the concept of ray tracing has been instrumental in the development of this application.
 
 I would also like to express my gratitude to the course COMP 371 - Computer Graphics at Concordia University. The theoretical framework and practical exercises provided throughout the course have immensely contributed to my understanding and skills in computer graphics, which have been vital in developing this project. The guidance from the faculty and the comprehensive curriculum helped transform a complex subject into a manageable and fascinating one.
-
-Last but not least, I am indebted to the open-source community for consistently providing resources, inspiration, and a platform to learn, create, and share. Your contributions to my journey in computer graphics are immensely appreciated.
