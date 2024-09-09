@@ -33,6 +33,11 @@ The Phong Local Illumination model calculates the color of an object based on it
 
 ![jumping_ball](https://github.com/AmrHMorsy/Raytracer-/assets/56271967/548bd100-d515-401c-880d-fe52c0427db0)
 
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.  
+[Read the full license here](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
 ## Installation
 
 1. Clone the repository:
